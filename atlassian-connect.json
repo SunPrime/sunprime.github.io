@@ -4,8 +4,8 @@
     "description": "Decode JIRA issue fields",
     "enableLicensing": true,
     "vendor": {
-        "name": "Andriy zhdanov",
-        "url": "http://www.lambdaplugin.com"
+        "name": "Andriy Zhdanov",
+        "url": "https://app.lambdaplugin.eu"
     },
     "baseUrl": "https://easysecrets.github.io",
     "links": {
